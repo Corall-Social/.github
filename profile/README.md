@@ -4,7 +4,7 @@
 We design tools that make digital conversations seamless, safe, and accessible — for individuals, teams, and communities.
 
 <img src="poster.svg" alt="Alt text" width="550" >
----
+
 
 ## 🌊 Our Vision
 
