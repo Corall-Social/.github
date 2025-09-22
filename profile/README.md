@@ -1,6 +1,6 @@
 # 🪸 Corall
 
-<img src="poster.svg" alt="error">
+<img src="poster.png" alt="error">
 
 
 **Corall** is a modern communication initiative focused on building **secure, private, and human-centered messaging solutions**.
