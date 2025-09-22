@@ -10,7 +10,7 @@ We design tools that make digital conversations seamless, safe, and accessible �
 
 ## 🛠 What We Build
 
-* **Corall App** – our flagship social networking service, combining speed, security, and simplicity.
+* **Corall Social** – our flagship social networking service, combining speed, security, and simplicity.
 * **Corall Infrastructure** – scalable backend services powering reliable communication.
 * **Corall Design System** – a unified set of UI/UX components for consistent, accessible experiences.
 
