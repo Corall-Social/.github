@@ -8,18 +8,6 @@ We design tools that make digital conversations seamless, safe, and accessible �
 
 ---
 
-
-## 🌊 Our Vision
-
-We believe communication technology should be:
-
-* 🔒 **Private** — conversations stay between the people involved.
-* 🌍 **Inclusive** — built for everyone, across platforms and devices.
-* ⚡ **Reliable** — fast, stable, and designed for real-world use.
-* 🤝 **Open** — transparent and community-driven.
-
----
-
 ## ✨ What We Build
 
 * **Corall App** – our flagship social networking service, combining speed, security, and simplicity.
