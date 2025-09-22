@@ -3,6 +3,7 @@
 **Corall** is a modern communication initiative focused on building **secure, private, and human-centered messaging solutions**.
 We design tools that make digital conversations seamless, safe, and accessible — for individuals, teams, and communities.
 
+<img src="poster.svg" alt="Alt text" width="550" >
 ---
 
 ## 🌊 Our Vision
@@ -18,7 +19,7 @@ We believe communication technology should be:
 
 ## ✨ What We Build
 
-* **Corall App** – our flagship messenger, combining speed, security, and simplicity.
+* **Corall App** – our flagship social networking service, combining speed, security, and simplicity.
 * **Corall Infrastructure** – scalable backend services powering reliable communication.
 * **Corall Design System** – a unified set of UI/UX components for consistent, accessible experiences.
 
