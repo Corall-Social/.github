@@ -3,7 +3,9 @@
 **Corall** is a modern communication initiative focused on building **secure, private, and human-centered messaging solutions**.
 We design tools that make digital conversations seamless, safe, and accessible — for individuals, teams, and communities.
 
-<img src="poster.svg" alt="Alt text" width="550" >
+<img src="poster.svg" alt="error">
+
+---
 
 
 ## 🌊 Our Vision
