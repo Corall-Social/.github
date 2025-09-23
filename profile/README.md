@@ -1,7 +1,10 @@
 # 🪸 Corall Social
 
-<img src="Poster.png" alt="error">
-
+<p align="center">
+  <picture>
+    <img src="Poster.png" alt="error width="500px"">
+  <picture>
+</p>
 
 **Corall Social** is a modern communication initiative focused on building **secure, private, and human-centered messaging solutions**.
 We design tools that make digital conversations seamless, safe, and accessible — for individuals, teams, and communities.
