@@ -2,7 +2,7 @@
 
 <p align="left">
   <picture>
-    <img src="https://raw.githubusercontent.com/Corall-Social/.github/main/profile/Poster.png" width="800px" alt="error">
+    <img src="https://raw.githubusercontent.com/Corall-Social/.github/main/profile/Poster.png" width="825px" alt="error">
   </picture>
 </p>
 
