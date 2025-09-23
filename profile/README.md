@@ -1,9 +1,9 @@
 # 🪸 Corall Social
 
-<p align="center">
+<p align="left">
   <picture>
-    <img src="Poster.png" alt="error width="500px"">
-  <picture>
+    <img src="https://raw.githubusercontent.com/Corall-Social/.github/main/profile/Poster.png" width="700px" alt="error">
+  </picture>
 </p>
 
 **Corall Social** is a modern communication initiative focused on building **secure, private, and human-centered messaging solutions**.
