@@ -11,7 +11,7 @@ We design tools that make digital conversations seamless, safe, and accessible �
 
 ---
 
-## 🛠 What We Build
+## What We Build
 
 * **Corall Social** – our flagship social networking service, combining speed, security, and simplicity.
 * **Corall Infrastructure** – scalable backend services powering reliable communication.
@@ -19,7 +19,7 @@ We design tools that make digital conversations seamless, safe, and accessible �
 
 ---
 
-## 💡 Why Corall?
+## Why Corall?
 
 Most messengers today force a trade-off between **usability, privacy, and trust**.
 Corall is designed to remove that compromise:
@@ -33,7 +33,7 @@ Corall is designed to remove that compromise:
 
 ---
 
-## 💬 Get Involved
+## Get Involved
 
 We welcome collaboration from developers, designers, and privacy advocates.
 If you’re interested in contributing, partnering, or just learning more, you can:
