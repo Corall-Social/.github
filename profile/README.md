@@ -13,15 +13,11 @@ We design tools that make digital conversations seamless, safe, and accessible �
 # What We Build
 
 * Corall Social – our flagship social networking service, combining speed, security, and simplicity.
-* Corall Infrastructure – scalable backend services powering reliable communication.
-* Corall Design System – a unified set of UI/UX components for consistent, accessible experiences.
-
 
 # Why Corall?
 
 * End-to-end encryption by default
 * Lightweight, modern UX
-* Transparent development & open-source values
 * Built to scale from private chats to large communities
 
 
