@@ -10,9 +10,7 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 
-## What We’re Building
-
-### Corall Social
+## Corall Social
 Our flagship social platform brings modern networking and privacy together.  
 It’s designed for individuals, creators, and organizations who want an elegant and reliable way to communicate, collaborate, and grow communities.
 
@@ -30,7 +28,6 @@ It’s designed for individuals, creators, and organizations who want an elegant
 - **Backend:** Java (Spring Boot), PostgreSQL  
 - **Infrastructure:** Docker, Nginx, and secure container networking
 
-Scalable and easy.
 
 
 
