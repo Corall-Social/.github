@@ -8,10 +8,6 @@
 We believe communication should be effortless, private, and built on trust.  
 Corall Social empowers users to take control of their digital presence without compromising on speed, usability, or scalability.
 
-
-
-## Corall Social
-
 **Highlights**
 - End-to-end encrypted messaging by default  
 - Clean, modern, and lightweight interface  
