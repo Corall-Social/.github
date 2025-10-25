@@ -8,7 +8,7 @@
 We believe communication should be effortless, private, and built on trust.  
 Corall Social empowers users to take control of their digital presence without compromising on speed, usability, or scalability.
 
----
+
 
 ## What We’re Building
 
@@ -22,7 +22,7 @@ It’s designed for individuals, creators, and organizations who want an elegant
 - Architecture built to scale — from one-on-one chats to large public communities  
 - Web-first experience with native mobile extensions on the roadmap  
 
----
+
 
 ## Technology Foundation
 
@@ -32,15 +32,7 @@ It’s designed for individuals, creators, and organizations who want an elegant
 
 Scalable and easy.
 
----
 
-## Why Corall
-- **Privacy at the core** – no tracking, no hidden data collection, no compromises.  
-- **Security-first architecture** – cryptographically protected communication and verified encryption models.  
-- **Human-centered experience** – intuitive design, accessible to everyone.  
-- **Built to evolve** – scalable systems designed to support rapid innovation and community growth.
-
----
 
 ## Get Involved
 Corall Social is an open initiative built by people who care about secure communication and open technology.  
@@ -52,7 +44,7 @@ You can:
 - Propose integrations or collaborations  
 - Connect with our core team for partnerships or media inquiries  
 
----
+
 
 ## License
 © 2025 Corall Social. All rights reserved.  
