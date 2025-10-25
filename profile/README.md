@@ -11,8 +11,6 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 ## Corall Social
-Our flagship social platform brings modern networking and privacy together.  
-It’s designed for individuals, creators, and organizations who want an elegant and reliable way to communicate, collaborate, and grow communities.
 
 **Highlights**
 - End-to-end encrypted messaging by default  
