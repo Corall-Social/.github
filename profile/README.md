@@ -30,10 +30,7 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 ## Get Involved
-Corall Social is an open initiative built by people who care about secure communication and open technology.  
-We invite developers, designers, and partners to help shape the next phase of social connection.
 
-You can:
 - Explore our repositories  
 - Contribute code or feedback  
 - Propose integrations or collaborations  
