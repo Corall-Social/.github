@@ -4,27 +4,56 @@
   </picture>
 </p>
 
-Corall Social is a modern communication initiative focused on building secure, private, and human-centered messaging solutions.
+## Our Vision
+We believe communication should be effortless, private, and built on trust.  
+Corall Social empowers users to take control of their digital presence without compromising on speed, usability, or scalability.
 
+---
 
+## What We’re Building
 
+### Corall Social
+Our flagship social platform brings modern networking and privacy together.  
+It’s designed for individuals, creators, and organizations who want an elegant and reliable way to communicate, collaborate, and grow communities.
 
-# What We Build
+**Highlights**
+- End-to-end encrypted messaging by default  
+- Clean, modern, and lightweight interface  
+- Architecture built to scale — from one-on-one chats to large public communities  
+- Web-first experience with native mobile extensions on the roadmap  
 
-* Corall Social – our flagship social networking service, combining speed, security, and simplicity.
+---
 
-# Why Corall?
+## Technology Foundation
 
-* End-to-end encryption by default
-* Lightweight, modern UX
-* Built to scale from private chats to large communities
+- **Frontend:** Next.js (TypeScript), React, TailwindCSS  
+- **Backend:** Java (Spring Boot), PostgreSQL  
+- **Infrastructure:** Docker, Nginx, and secure container networking
 
+Scalable and easy.
 
-# Get Involved
+---
 
-If you’re interested in contributing, partnering, or just learning more, you can:
+## Why Corall
+- **Privacy at the core** – no tracking, no hidden data collection, no compromises.  
+- **Security-first architecture** – cryptographically protected communication and verified encryption models.  
+- **Human-centered experience** – intuitive design, accessible to everyone.  
+- **Built to evolve** – scalable systems designed to support rapid innovation and community growth.
 
-* Explore our repositories
-* Report issues & suggest features
-* Join our community discussions
-* Reach out via \[contact link / email / Discord]
+---
+
+## Get Involved
+Corall Social is an open initiative built by people who care about secure communication and open technology.  
+We invite developers, designers, and partners to help shape the next phase of social connection.
+
+You can:
+- Explore our repositories  
+- Contribute code or feedback  
+- Propose integrations or collaborations  
+- Connect with our core team for partnerships or media inquiries  
+
+---
+
+## License
+© 2025 Corall Social. All rights reserved.  
+Use, distribution, and contributions are subject to the repository’s license.
