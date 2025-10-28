@@ -4,7 +4,6 @@
   </picture>
 </p>
 
-## Our Vision
 We believe communication should be effortless, private, and built on trust.  
 Corall Social empowers users to take control of their digital presence without compromising on speed, usability, or scalability.
 
@@ -16,7 +15,7 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 
-## Technology Foundation
+**Technology Foundation**
 
 - **Frontend:** Next.js (TypeScript), React, TailwindCSS  
 - **Backend:** Java (Spring Boot), PostgreSQL  
@@ -25,7 +24,7 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 
-## Get Involved
+**Get Involved**
 
 - Explore our repositories  
 - Contribute code or feedback  
@@ -34,6 +33,7 @@ Corall Social empowers users to take control of their digital presence without c
 
 
 
-## License
+**License**
+
 © 2025 Corall Social. All rights reserved.  
 Use, distribution, and contributions are subject to the repository’s license.
